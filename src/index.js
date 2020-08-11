@@ -61,7 +61,7 @@ function Content() {
           </Text>
         </Block>
         <Block factor={1.0}>
-          <Dom position={[-w / 3.2, -w * 0.08 + 0.25, -1]}>It was the year 2076.{mobile ? <br /> : " "}The substance had arrived.</Dom>
+          <Dom position={[-w / 3.2, -w * 0.08 + 0.25, -1]}>It was the year 1992.{mobile ? <br /> : " "}The substance had arrived.</Dom>
         </Block>
       </Block>
       <Block factor={1.2} offset={5.7}>
