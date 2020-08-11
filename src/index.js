@@ -105,13 +105,13 @@ function App() {
       <div className="frame">
         <h1 className="frame__title">saimon islam's virtual world</h1>
         <div className="frame__links">
-          <a className="frame__link" href="http://tympanus.net/Tutorials/PhysicsMenu/">
+          <a className="frame__link" href="#">
             Previous demo
           </a>
-          <a className="frame__link" href="https://tympanus.net/codrops/?p=45441">
+          <a className="frame__link" href="#">
             Article
           </a>
-          <a className="frame__link" href="https://github.com/drcmda/the-substance">
+          <a className="frame__link" href="#">
             GitHub
           </a>
         </div>
