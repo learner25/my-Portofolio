@@ -103,7 +103,7 @@ function App() {
         ))}
       </div>
       <div className="frame">
-        <h1 className="frame__title">Scroll, Refraction and Shader Effects</h1>
+        <h1 className="frame__title">saimon islam's virtual world</h1>
         <div className="frame__links">
           <a className="frame__link" href="http://tympanus.net/Tutorials/PhysicsMenu/">
             Previous demo
